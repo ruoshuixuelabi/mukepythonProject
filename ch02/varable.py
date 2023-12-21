@@ -16,8 +16,6 @@ ymd = '2020-02-20'  # ymd is year_month_day
 
 a, b, c = 1, 2, 3
 
-
-
 if __name__ == '__main__':
     print(username)
     print(age)
@@ -27,5 +25,3 @@ if __name__ == '__main__':
     print(a, b, c)
     print(b)
     print(c)
-
-
